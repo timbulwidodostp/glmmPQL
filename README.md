@@ -1,6 +1,8 @@
 # glmmPQL
 Fit Generalized Linear Mixed Models via Penalized Quasi-Likelihood (PQL) Use glmmPQL (MASS) With (In) R Software
 
+https://www.youtube.com/watch?v=H7kGkTirqTE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
